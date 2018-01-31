@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Capturer
+Icon=/home/kent/Desktop/LinuxFinal/res/capture.png
+StartupNotify=true
+Exec=/home/kent/Desktop/LinuxFinal/client/testGtk3

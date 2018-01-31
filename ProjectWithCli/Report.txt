@@ -1,0 +1,9 @@
+Line in Packet:328
+Report for TCP:
+Tcp Header received:267
+,Tcp header written:267
+Percentage:1.000000
+Report for UDP:
+Udp Header received:61
+,Udp header written:61
+Percentage:1.000000
